@@ -2,9 +2,8 @@
 
 Common Lisp bindings for the Capstone disassembler
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/GrammaTech/cl-capstone.git   |
-| commit  | 99926c3  |
-| systems | cl-capstone |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/GrammaTech/cl-capstone.git |
+| commit  | 99926c3                                           |
+| systems | capstone                                          |
+|---------+---------------------------------------------------|
